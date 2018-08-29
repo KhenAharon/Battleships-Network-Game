@@ -1,5 +1,5 @@
 # Battleships-Network-Game
-This is a network game of Battleships.
+This is a network game of Battleships (TCP/IP based).
 
 # Compilation
 You can compile in visual studio.
