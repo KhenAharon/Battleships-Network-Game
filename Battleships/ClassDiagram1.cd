@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="Battleships.BattleServerForm" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>BattleServerForm.cs</FileName>
+      <HashCode>IAAAAAAAACAAgggAAACAIAACAICAIAGCIAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Battleships.Player" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>BattleServerForm.cs</FileName>
+      <HashCode>AAAAAAAAAAAAQAAAAAAJAAAIAAAAAAEAAQAAAAAQgAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Battleships.Form1" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Form1.cs</FileName>
+      <HashCode>CAAIAxQAQCgACAAAAMCFaSACQACEAAEAGYQASAhwEAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Battleships.Logic" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Logic.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAABAgQAgAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Battleships.Program" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Battleships.Ship" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Ship.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAIAAIABAAACQAACAACAAAAAAAAQAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Battleships.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAQAAACEQBAAAAABEAAAAQAAAAAAoAAAAAAACIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Battleships.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>
